@@ -1,7 +1,9 @@
 Target 2020:
 - Konsisten belajar framework java sampai ahli, aamiin
-  *Belajar Spring MVC
   *Belajar Bahasa Groovy
+  *spring-boot
+  *hibernate
+- Belajar Node.js
 - Sukses mengerjakan Tugas Akhir
 - Sukses membimbing orang lain dengan ikhlas dan sabar
 - Semakin berpikir dewasa, kurangi ego
